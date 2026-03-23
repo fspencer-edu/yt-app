@@ -6,3 +6,4 @@ backend/uploads/*
 node_modules/
 dist/
 *.mp4
+venv/
